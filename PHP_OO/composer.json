@@ -1,0 +1,11 @@
+{
+    "name": "avell/php_oo",
+    "description": "Projeto Banco PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Avell\\PhpOo\\": "src/"
+        }
+    },
+    "require": {}
+}
